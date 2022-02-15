@@ -6,5 +6,5 @@ function ageInDays() {
 }
 
 function reset() {
-    document.getElementById("age__result").innerText ="Your result will show here";
+    document.getElementById("age__result").innerText ="Excited? Count again!";
 }
